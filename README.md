@@ -1,51 +1,29 @@
 # Norah Al.Azzam License-
-This License is for Norah Al-Azzam COGS 18 project. 
+I give permission to the general public to use this code in a way appropriate to the task they want to achieve. 
 
-I give permission to any one to use this code in a way approaite to the task they want to achive. 
 # Reversing Keycode for encypation and decarbation with a chatboat 
 
-One Paragraph of project description goes here
+Each character has a key code attached to it. Of course, there are so many ways to move key codes by units to get a different key code and just move back to the original key code of that message. What I mean is that it is simple to just move key codes and it is easy to decode them 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Make sure to have anaconda installed and python version 3 ( preferably the latest version). 
+
+Before you start this, make sure you have your Gmail username and password ready. You might need to create a spreat email for it. Or after you are finished with the task make sure to remove the password. 
+Next, go to https://myaccount.google.com/lesssecureapps and login if you need to. In this page, you will want to flick the Allow less secure apps switch to on. This allows us to use less secure sign-in technology to log in to the email server; note that this will make your account more vulnerable.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+* Need Python Version 3.6 or 3.7 a
+* Have Anaconda Jupyter
+* Gmail account
 
-```
-Give examples
-```
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
 Explain how to run the automated tests for this system
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
 ```
 
 ### And coding style tests
@@ -56,36 +34,17 @@ Explain what these tests test and why
 Give an example
 ```
 
-## Deployment
 
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the General Pulbic License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
+* Thomas Donoghue The instructor for COGS 18 Fall 2018
+* UCSD COGS 18 Instructional Assistants  and Teaching Assistant 
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
