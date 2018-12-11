@@ -24,15 +24,9 @@ Next, go to https://myaccount.google.com/lesssecureapps and login if you need to
 
 Explain how to run the automated tests for this system
 
-```
 
-### And coding style tests
 
 Explain what these tests test and why
-
-```
-Give an example
-```
 
 
 
