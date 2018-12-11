@@ -1,7 +1,7 @@
 # Norah Al.Azzam License-
 I give permission to the general public to use this code in a way appropriate to the task they want to achieve. 
 
-# Reversing Keycode for encypation and decarbation with a chatboat 
+# Reversing Keycode for encryption and decryption 
 
 Each character has a key code attached to it. Of course, there are so many ways to move key codes by units to get a different key code and just move back to the original key code of that message. What I mean is that it is simple to just move key codes and it is easy to decode them 
 
