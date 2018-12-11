@@ -9,12 +9,12 @@ Each character has a key code attached to it. Of course, there are so many ways 
 
 Make sure to have anaconda installed and python version 3 ( preferably the latest version). 
 
-Before you start this, make sure you have your Gmail username and password ready. You might need to create a spreat email for it. Or after you are finished with the task make sure to remove the password. 
+Before you start this, make sure you have your Gmail username and password ready. You might need to create a separate email for this. Or after you are finished with the task make sure to remove the password. 
 Next, go to https://myaccount.google.com/lesssecureapps and login if you need to. In this page, you will want to flick the Allow less secure apps switch to on. This allows us to use less secure sign-in technology to log in to the email server; note that this will make your account more vulnerable.
 
 ### Prerequisites
 
-* Need Python Version 3.6 or 3.7 a
+* Need Python Version 3.6 or 3.7 
 * Have Anaconda Jupyter
 * Gmail account
 
@@ -22,11 +22,14 @@ Next, go to https://myaccount.google.com/lesssecureapps and login if you need to
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+The test functions are further explained under test_functions.py.  The test functions test the inputs and outputs, if the functions are callable, and checks if the functions give you a string. 
 
 
+## Limitations in the code
+There is a Jupyter notebook that highlights the limitations in the code ( Norah_issues_solved), but here is a summary:
+* All inputs will be changed to lowercase letter/characters 
+* Letters like (d,n,x) will not be encoded or decoded because reversing their keycodes removes the zeros and doesn't give back the letter  
 
-Explain what these tests test and why
 
 
 
